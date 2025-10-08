@@ -4,13 +4,11 @@
 
 This project was developed in collaboration between:
 
-- **Adeoluwa Afolabi** (<adeoluwa.afolabi@lions.lincoln.edu>)  
-  **Focus Area:** Development (RSE Inspired)  
-  **Title:** RSE-Inspired Development of a Layered Real-Time Email Anomaly Detection System Using Gmail API and Machine Learning
+- **Adeoluwa Afolabi** 
+  **Focus Area:** Development (RSE Inspired) 
 
-- **Agustina Lorda** (<agustina.lorda@lions.lincoln.edu>)  
+- **Agustina Lorda** 
   **Focus Area:** Modeling (ML Based)  
-  **Title:** Designing a Layered Machine Learning Model for Email Anomaly Detection and Phishing Prevention
 
 Together, we built a robust, real-time email phishing detection system featuring a layered architecture, machine learning models, a user-friendly GUI, and Gmail API integration.
 
