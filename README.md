@@ -60,14 +60,3 @@ An intelligent email phishing detector that classifies emails as either "phishin
 
 When you click to fetch emails, a browser will open asking you to log into your Gmail account and authorize access. This uses Google OAuth2 and stores your token securely in `token.json` (excluded from Git).
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
-
-## 📄 License
-
-[MIT License](LICENSE)
-
-## 🙏 Acknowledgments
-
-Thanks to Google Developers for the Gmail API and OAuth2 tutorials.
