@@ -4,11 +4,12 @@
 
 This project was developed in collaboration between:
 
+- **Agustina Lorda** 
+  **Focus Area:** Modeling (ML Based) 
+
 - **Adeoluwa Afolabi** 
   **Focus Area:** Development (RSE Inspired) 
 
-- **Agustina Lorda** 
-  **Focus Area:** Modeling (ML Based)  
 
 Together, we built a robust, real-time email phishing detection system featuring a layered architecture, machine learning models, a user-friendly GUI, and Gmail API integration.
 
