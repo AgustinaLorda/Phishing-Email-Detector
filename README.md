@@ -12,9 +12,6 @@ This project was developed in collaboration between:
 
 Together, we built a robust, real-time email phishing detection system featuring a layered architecture, machine learning models, a user-friendly GUI, and Gmail API integration.
 
-## 🎬 Demo
-
-![Demo](0.png)
 
 ## ✨ Features
 - GUI built with Tkinter  
